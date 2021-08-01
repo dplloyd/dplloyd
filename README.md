@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @dplloyd
-- 👀 This is my personal account, where I'm interested in improving my general programming skills
-- 👀 I primarily use R, but want to expand my python knowledge, and learn javascript.
-- 🌱 I’m currently using the openCV library measure car speeds. 
+Hi, I’m @dplloyd.
+
 
 <!---
 dplloyd/dplloyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
